@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LogIn_LogOut_Firebase</string>
+    <string name="client">412848364865-otej930if89rp2fl94reur9evvj3mnil.apps.googleusercontent.com</string>
+
+
+<!--  facebock ===============  -->
+    <string name="facebook_app_id">1462426114218878</string>
+    <string name="fb_login_protocol_scheme">fb1462426114218878</string>
+    <string name="facebook_client_token">911c073d124ef9391910842b9069d3cf</string>
+
+</resources>
+
+<!--    c91d205e65dd33c34ddab591c0f446e9-->
